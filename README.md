@@ -1,6 +1,6 @@
-- 👉🏼 Hi, I’m @FSa-git
-- 👀 I’m interested on learning Computer Science
-- 🌱 I’m currently learning HTML/CSS and trying to survive Java in School :^
+- 👉🏼 Hello World, I’m @FSa!
+- 👀 Currently studying Computer Science
+- 🌱 Learning HTML/CSS and trying to survive Java :^
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
 - 📫 DM for collab! 
 
