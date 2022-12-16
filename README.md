@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
 - 📫 DM for collab! 
 
-![Visitor Count](https://github.com/FSa-git/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!---
 FSa-git/FSa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
