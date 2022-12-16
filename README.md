@@ -6,6 +6,8 @@
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
 - 📫 DM for collab! 
 
+# Viewer Count
+
 ![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
 
 <!---
