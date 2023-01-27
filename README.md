@@ -1,4 +1,4 @@
-# Hello World, I’m @FSa!
+# Hello World, I’m @FSa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Currently studying Computer Science 
 - 🌱 Learning HTML/CSS and trying to survive Java :^
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
