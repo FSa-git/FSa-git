@@ -34,18 +34,6 @@ Currently studying Computer Science
   
 </details>
 
-```dart
-// tools_I_use 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java" },
-    "OtherLanguages" : { "HTML", "CSS" },
-    "Editors" : { "Vscode", "Eclipse", "IntelliJ" },
-    "Platforms" : { "MacOS", "Windows" },
-    "OtherTools" : { "Git", "Illustrator", "Photoshop", "Lightroom" }
-  };
-}
-```
 ## Viewer Count
 
 ![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
