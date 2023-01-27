@@ -1,4 +1,5 @@
 # Hello World, I’m @FSa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 Currently studying Computer Science 
 - 🌱 Learning HTML/CSS and trying to survive Java :^
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
@@ -9,13 +10,9 @@ Currently studying Computer Science
 
 ![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
 
-## Links
-
-![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
-
 <hr></hr>
 
-## Experience in 
+## Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
