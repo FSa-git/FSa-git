@@ -9,8 +9,10 @@ Currently studying Computer Science
 
 ![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
 
+## Links
+
 [1]: https://twitter.com/codespacer
-[2]: https:/github.com/FSa-git
+[2]: https:/github.com/
 
 <!---
 FSa-git/FSa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
