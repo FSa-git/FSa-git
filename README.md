@@ -1,5 +1,6 @@
 # Hello World, I’m @FSa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
+<br>
 Currently studying Computer Science 
 - 🌱 Learning HTML/CSS and trying to survive Java :^
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
