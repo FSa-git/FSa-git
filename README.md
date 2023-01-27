@@ -1,7 +1,7 @@
 # Hello World, I’m @FSa!
 Currently studying Computer Science 
-🌱 Learning HTML/CSS and trying to survive Java :^
-👨🏻‍💻 I’m looking to collaborate with experts like you!
+- 🌱 Learning HTML/CSS and trying to survive Java :^
+- 👨🏻‍💻 I’m looking to collaborate with experts like you!
 
 ![](https://github.com/FSa-git/Images/blob/main/giphy.gif)
 
