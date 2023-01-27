@@ -11,8 +11,7 @@ Currently studying Computer Science
 
 ## Links
 
-[1]: https://twitter.com/codespacer
-[2]: https:/github.com/
+![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <!---
 FSa-git/FSa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
