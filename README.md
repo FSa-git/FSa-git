@@ -7,10 +7,6 @@ Currently studying Computer Science
 
 ![](https://github.com/FSa-git/Images/blob/main/giphy.gif)
 
-# Viewer Count
-
-![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
-
 <hr></hr>
 
 ## Skills
@@ -37,6 +33,9 @@ class About extends Me {
   };
 }
 ```
+## Viewer Count
+
+![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
 
 <!---
 FSa-git/FSa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
