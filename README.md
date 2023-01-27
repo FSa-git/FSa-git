@@ -22,8 +22,16 @@ Currently studying Computer Science
 ### Working with 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
-
 <hr></hr>
+
+<details>
+  <summary><b>:computer: &nbsp;Coding knowledge</b></summary>
+  <br/>
+  ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
+  ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+  
+</details>
 
 ```dart
 // tools_I_use 
