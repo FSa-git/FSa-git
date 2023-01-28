@@ -34,6 +34,16 @@ Currently studying Computer Science
   
 </details>
 
+<details>
+  <summary><b>:hammer: &nbsp;Current Projects</b></summary>
+  <br/>
+  
+  [ ] Sardinien.com 
+  [ ] Java Basics
+  [ ] FSa Portfolio
+  
+</details>
+
 ## Viewer Count
 
 ![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
