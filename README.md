@@ -38,9 +38,9 @@ Currently studying Computer Science
   <summary><b>:hammer: &nbsp;Current Projects</b></summary>
   <br/>
   
-  [ ] Sardinien.com 
-  [ ] Java Basics
-  [ ] FSa Portfolio
+ - [ ] Sardinien.com 
+ - [ ] Java Basics
+ - [ ] FSa Portfolio
   
 </details>
 
