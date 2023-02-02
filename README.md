@@ -2,8 +2,8 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
 Currently studying Computer Science 
-- 🌱 Learning HTML/CSS and trying to survive Java :^
-- 👨🏻‍💻 I’m looking to collaborate with experts like you!
+[-]🌱 Learning HTML/CSS and trying to survive learning Java :^
+[-] 👨🏻‍💻 I’m looking to collaborate with experts like you!
 
 ![](https://github.com/FSa-git/Images/blob/main/giphy.gif)
 
