@@ -25,7 +25,7 @@ Currently studying Computer Science
 <hr></hr>
 
 <details>
-  <summary><b>:computer: &nbsp;Coding knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Editors and IDEs</b></summary>
   <br/>
   
   ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
