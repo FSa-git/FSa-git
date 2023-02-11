@@ -37,7 +37,8 @@ Currently studying Computer Science
   <br/>
   
  - [ ] Sardinien.com 
- - [ ] Java Basics
+ - [ ] Prj1_Java
+ - [ ] Html_School
  - [ ] FSa Portfolio
   
 </details>
