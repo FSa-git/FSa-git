@@ -1,8 +1,3 @@
-### 📈 GitHub Activity Graph:
-[![F.Sa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FSa-git&theme=github-compact)](https://github.com/Fsa-git/github-readme-activity-graph)
-
-![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FSa-git&theme=radical&layout=compact)
-
 # Hello World, I’m @FSa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
@@ -52,6 +47,11 @@ Currently studying [![Computer Science Development Badge](https://img.shields.io
 ## Viewer Count
 
 ![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
+
+### 📈 GitHub Activity Graph:
+[![F.Sa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FSa-git&theme=github-compact)](https://github.com/Fsa-git/github-readme-activity-graph)
+
+![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FSa-git&theme=radical&layout=compact)
 
 <!---
 FSa-git/FSa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
