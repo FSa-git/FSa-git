@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F.Sa-git&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=F.Sa&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=F.Sa&theme=radical&layout=compact)
 
 # Hello World, I’m @FSa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
