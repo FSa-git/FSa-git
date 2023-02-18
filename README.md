@@ -1,3 +1,6 @@
+### 📈 GitHub Activity Graph:
+[![F.Sa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FSa-git&theme=github-compact)](https://github.com/Fsa-git/github-readme-activity-graph)
+
 ![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FSa-git&theme=radical&layout=compact)
 
 # Hello World, I’m @FSa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
