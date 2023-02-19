@@ -1,8 +1,9 @@
 # Hello World, I’m F.Sa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
 Currently studying [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/)
+
 - 🌱 Learning HTML/CSS and trying to survive learning Java :^
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
 
@@ -10,7 +11,7 @@ Currently studying [![Computer Science Development Badge](https://img.shields.io
 
 <hr></hr>
 
-## Skills
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
