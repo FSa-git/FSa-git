@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Totals Hits](https://komarev.com/ghpvc/?username=FSa-git&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
-Currently studying [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/)
+Currently studying [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science%20Student-FAB040?style=flat&logoColor=white)](https://github.com/)
 
 - 🌱 Learning HTML/CSS and trying to survive learning Java :^
 - 👨🏻‍💻 I’m looking to collaborate with experts like you!
