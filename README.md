@@ -49,10 +49,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-</details>  
-## Viewer Count
-
-![Visitor Count](https://profile-counter.glitch.me/FSa-git/count.svg)
+</details>
 
 ### 📈 GitHub Activity Graph:
 [![F.Sa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FSa-git&theme=github-compact)](https://github.com/Fsa-git/github-readme-activity-graph)
