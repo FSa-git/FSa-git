@@ -34,11 +34,10 @@
 <details>
   <summary><b>:hammer: &nbsp;Current Projects</b></summary>
   <br/>
-  
- - [ ] Sardinien.com 
- - [ ] Prj1_Java
+
+ - [ ] Java
  - [ ] Html_School
- - [ ] FSa Portfolio
+ - [ ] ...
   
 </details>
 
@@ -52,7 +51,6 @@
 </details>
 
 ### 📈 GitHub Activity Graph:
-[![F.Sa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FSa-git&theme=github-compact)](https://github.com/Fsa-git/github-readme-activity-graph)
 
 ![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FSa-git&theme=radical&layout=compact)
 
