@@ -35,7 +35,6 @@
   <summary><b>:hammer: &nbsp;Current Projects</b></summary>
   <br/>
 
- - [ ] Java
  - [ ] Html_School
  - [ ] ...
   
