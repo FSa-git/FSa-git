@@ -53,7 +53,11 @@
 
 ### 📈 GitHub Activity Graph:
 
-![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FSa-git&theme=radical&layout=compact)
+<!--
+![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true)
+-->
+
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FSa-git&theme=radical&layout=compact)
 
 <!---
 FSa-git/FSa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
