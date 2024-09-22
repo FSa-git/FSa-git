@@ -4,7 +4,9 @@
 <br>
 [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science%20Student-FAB040?style=flat&logoColor=white)](https://github.com/)
 
+<!---
 ![](https://github.com/FSa-git/Images/blob/main/giphy.gif)
+--->
 
 <hr></hr>
 
