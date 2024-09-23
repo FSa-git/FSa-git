@@ -26,29 +26,18 @@
   <summary><b>:computer: &nbsp;Editors and IDEs</b></summary>
   <br/>
   
-  ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
   ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
   ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
   
-</details>
-
-<details>
-  <summary><b>:hammer: &nbsp;Current Projects</b></summary>
-  <br/>
-
- - [ ] Html_School
- - [ ] ...
-  
-</details>
-
+<!--
 <details>
   <summary><b> 🎨 Extra</b></summary>
   <br/>
-  
+  -->
+  <!--
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-</details>
+-->
 
 ### 📈 GitHub Activity Graph:
 
