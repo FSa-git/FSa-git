@@ -23,8 +23,9 @@
 <hr></hr>
 
 <details>
-  <summary><b>:computer: &nbsp;Editors and IDEs</b></summary>
-  <br/>
+  <summary><b>Read more..</b></summary>
+
+  ### Tools
   
   ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
   ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
@@ -39,7 +40,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 -->
 
-### 📈 GitHub Activity Graph:
+### Language Skills
 
 <!--
 ![F.Sa's github stats](https://github-readme-stats.vercel.app/api?username=FSa-git&show_icons=true&theme=radical&include_all_commits=true)
